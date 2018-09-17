@@ -1,3 +1,0 @@
-# Authors
-
-- Scott Fleming
